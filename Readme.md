@@ -1,4 +1,4 @@
-# Training Guide: Using Trouble Solver by shareqa 
+# Training Guide: Using Trouble Solver ai
 
 **Created by Shareqa, Srinagar, Jammu & Kashmir**  
 **Version 1.0 | January 2026**
